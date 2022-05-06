@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiSolution/.vs/ApiSolution
+/ApiSolution/Api/bin/Debug/net6.0
+/ApiSolution/Api/obj/Debug/net6.0
+/ApiSolution/Api/obj
