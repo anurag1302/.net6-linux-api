@@ -6,3 +6,6 @@
 /ApiSolution/Api/bin/Debug/net6.0
 /ApiSolution/Api/obj/Debug/net6.0
 /ApiSolution/Api/obj
+/ApiSolution/Api/.config
+/ApiSolution/Api/bin/Release/net6.0
+/ApiSolution/Api/Properties/PublishProfiles
